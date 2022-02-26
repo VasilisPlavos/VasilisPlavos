@@ -9,7 +9,7 @@ with demonstrated working experience in the insurance and real estate industries
 - 🔭 I’m currently working on [Grekodom Development](https://grekodom.com)
 - 🌱 I’m currently learning Nodejs, Nextjs, React
 - 💬 Ask me about Automations, Integrations, Innovation, Industry 4.0
-- ⚡ Fun fact: I love hip-hop from 90s til now
+- ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh) from 90s til now
 - 📫 How to reach me: <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
 - [Resume](https://plavos.com/tech-cv)
 
