@@ -2,7 +2,7 @@
 
 ## Hey, I'm Vasilis 👋
 
-## I am a self-taught software engineer
+## I am a full stack software engineer
 
 with demonstrated working experience in the insurance and real estate industries. I love building applications that can make life easier, using cutting-edge technologies.
 
