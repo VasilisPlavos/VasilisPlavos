@@ -4,9 +4,9 @@
 
 ## I am a full stack software engineer
 
-with demonstrated working experience in the insurance and real estate industries. I love building applications that can make life easier, using cutting-edge technologies.
+with demonstrated experience working with .NET (C#), MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
 
-- 🔭 I’m currently working on [Grekodom Development](https://grekodom.com)
+- 🔭 I’m currently working as a Full Stack Software Engineer for projects for a major Greek Bank
 - 🌱 I’m currently learning Nodejs, Nextjs, React
 - 💬 Ask me about Automations, Integrations, Innovation, Industry 4.0
 - ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh) from 90s til now
@@ -29,6 +29,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a m
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/dotnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/dotnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/dotnet" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<a href="https://github.com/VasilisPlavos/Learn/tree/main/Web/Apps/angular" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://github.com/VasilisPlavos/Learn/tree/main/Web/Others/typescript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/Web" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/Web" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/Web" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
