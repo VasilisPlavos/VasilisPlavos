@@ -2,11 +2,11 @@
 
 ## Hey, I'm Vasilis 👋
 
-## I am a full stack software engineer
+## I am a full stack cloud engineer
 
-with demonstrated experience working with .NET (C#), MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
+with demonstrated experience working with .NET (C#), Azure Cloud, MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
 
-- 🔭 I’m currently working as a Full Stack Software Engineer for projects for a major Greek Bank
+- 🔭 I’m currently working as a Cloud Engineer for ifolor
 - 🌱 I’m currently learning Nodejs, Nextjs, React
 - 💬 Ask me about Automations, Integrations, Innovation, Industry 4.0
 - ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh) from 90s til now
