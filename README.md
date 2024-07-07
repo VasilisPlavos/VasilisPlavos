@@ -10,7 +10,7 @@ with demonstrated experience working with .NET (C#), Azure Cloud, MSSQL, Angular
 - 🌱 I’m currently learning Nodejs, Nextjs, React
 - 💬 Ask me about Automations, Integrations, Innovation, Industry 4.0
 - ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh) from 90s til now
-- 📫 How to reach me: <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>, <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
 - 📄 See my [Resume/CV](https://plavos.com/tech-cv)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a more detailed description of my full work experience, education and certification.
