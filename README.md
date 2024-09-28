@@ -6,6 +6,7 @@
 
 with demonstrated experience working with .NET (C#), Azure Cloud, MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
 
+- 🔭 I’m currently working as Back-end developer using C#/.NET and Azure Cloud
 - 🌱 I’m currently learning Google AI Studio, creating custom GPTs, Prompt engineering 
 - 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
 - ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh?utm_source=github.com) from 90s til now
