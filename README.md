@@ -6,12 +6,11 @@
 
 with demonstrated experience working with .NET (C#), Azure Cloud, MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
 
-- 🔭 I’m currently working as a Cloud Engineer for ifolor
-- 🌱 I’m currently learning Nodejs, Nextjs, React
-- 💬 Ask me about Automations, Integrations, Innovation, Industry 4.0
-- ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh) from 90s til now
+- 🌱 I’m currently learning Google AI Studio, creating custom GPTs, Prompt engineering 
+- 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
+- ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh?utm_source=github.com) from 90s til now
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>, <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
-- 📄 See my [Resume/CV](https://plavos.com/tech-cv)
+- 📄 See my [Resume/CV](https://plavos.com/tech-cv?utm_source=github.com)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a more detailed description of my full work experience, education and certification.
 
