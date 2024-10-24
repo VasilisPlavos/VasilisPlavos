@@ -2,14 +2,13 @@
 
 ## Hey, I'm Vasilis 👋
 
-## I am a full stack cloud engineer
+## I am a full stack software engineer
 
-with demonstrated experience working with .NET (C#), Azure Cloud, MSSQL, Angular (TypeScript/JavaScript). I love building applications that can make life easier, using cutting-edge technologies.
+As a proffetional software engineer, I have 5+ years of experience and strong focus on Serverless and Microservices architecture. Skilled in developing scalable solutions using TypeScript/JavaScript, Angular, Node.js, C#, and Azure Cloud, with a solid background in DevOps practices. Proven track record in digital transformation and process optimization across various industries, including banking, real estate, and insurance.
 
-- 🔭 I’m currently working as Back-end developer using C#/.NET and Azure Cloud
 - 🌱 I’m currently learning Google AI Studio, creating custom GPTs, Prompt engineering 
 - 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
-- ⚡ Fun fact: I love [hip-hop](https://plavos.com/hh?utm_source=github.com) from 90s til now
+- ⚡ Fun fact: [hip-hop](https://plavos.com/hh?utm_source=github.com) music listener from 90s til now
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>, <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
 - 📄 See my [Resume/CV](https://plavos.com/tech-cv?utm_source=github.com)
 
@@ -45,7 +44,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a m
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/Web/Apps" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://vasilisplavos.github.io/learngatsby/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/Web/Apps" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
