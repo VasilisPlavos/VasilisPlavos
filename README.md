@@ -6,7 +6,7 @@
 
 As a proffetional software engineer, I have 5+ years of experience and strong focus on Serverless and Microservices architecture. Skilled in developing scalable solutions using TypeScript/JavaScript, Angular, Node.js, C#, and Azure Cloud, with a solid background in DevOps practices. Proven track record in digital transformation and process optimization across various industries, including banking, real estate, and insurance.
 
-- 🌱 I’m currently learning Google AI Studio, creating custom GPTs, Prompt engineering 
+- 🌱 I’m currently learning how to use GenAI to develop solutions 
 - 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
 - ⚡ Fun fact: [hip-hop](https://plavos.com/hh?utm_source=github.com) music listener from 90s til now
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>, <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
