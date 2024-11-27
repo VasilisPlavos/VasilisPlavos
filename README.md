@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/vasilisplavos/">Linkedin</a> · <a href="https://plavos.com">plavos.com</a> · <a href="mailto:v1@plavos.com">v1@plavos.com</a>
+<p align="center"><a href="https://www.linkedin.com/in/vasilisplavos/">Linkedin</a> · <a href="https://plavos.com/blog">plavos.com/blog</a> · <a href="mailto:v1@plavos.com">v1@plavos.com</a>
 
 ## Hey, I'm Vasilis 👋
 
