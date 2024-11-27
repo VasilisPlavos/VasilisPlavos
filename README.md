@@ -8,21 +8,12 @@ As a proffetional software engineer, I have 5+ years of experience and strong fo
 
 - 🌱 I’m currently learning how to use GenAI to develop solutions 
 - 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
-- ⚡ Fun fact: [hip-hop](https://plavos.com/hh?utm_source=github.com) music listener from 90s til now
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>, <a href="mailto:v1@plavos.com">v1@plavos.com</a>, <a href="https://m.me/vasilisplavospage">Messenger</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>
 - 📄 See my [Resume/CV](https://plavos.com/tech-cv?utm_source=github.com)
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a more detailed description of my full work experience, education and certification.
-
 ### Connect with me:
+Please connect with me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/). Find me there for a more detailed description of my full work experience, education and certification.
 
-<p align="left">  
-<a href="https://www.linkedin.com/in/vasilisplavos/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://twitter.com/VasilisPlavos" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://www.instagram.com/vasilisplavos/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-<a href="mailto:v1@plavos.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
-<a href="https://m.me/vasilisplavospage" target="blank"><img width="32" height="32" src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/></a>
-</p>
 
 ### Technologies and Tools
 <a href="https://github.com/VasilisPlavos/Learn/tree/main/dotnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -54,4 +45,4 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/) for a m
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasilisplavos&show_icons=true&locale=en&layout=compact" alt="vasilisplavos" />
 <img src="https://github-readme-stats.vercel.app/api?username=vasilisplavos&show_icons=true&locale=en" alt="vasilisplavos" />
 
-**©2022 Welcome README** From Vasilis Plavos with ❤ inspired by [iuricode](https://github.com/iuricode/readme-template), [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/).
+**©2024 Welcome README** From Vasilis Plavos with ❤ inspired by [iuricode](https://github.com/iuricode/readme-template), [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/).
