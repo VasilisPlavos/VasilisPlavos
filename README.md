@@ -1,15 +1,12 @@
 <p align="center"><a href="https://www.linkedin.com/in/vasilisplavos/">Linkedin</a> · <a href="https://plavos.com/blog">plavos.com/blog</a> · <a href="mailto:v1@plavos.com">v1@plavos.com</a>
 
 ## Hey, I'm Vasilis 👋
-
-## I am a full stack software engineer
-
 I’m a professional Full-stack Software Engineer with proven experience in developing scalable solutions using C#/.NET, TypeScript/JavaScript, React, Angular, MS SQL, Node.js and Azure Cloud, complemented by a solid background in DevOps practices. I can explain my work processes clearly as well as concisely, and I’m eager to accelerate my career by collaborating with bright people to develop applications that simplify life. My track record includes contributing to digital transformation and process optimization across industries such as banking, real estate, and insurance.
 
-- 🌱 I’m currently learning how to use GenAI to develop solutions 
+- 🌱 I’m currently learning how to use GenAI to develop solutions, mostly AI Agents 
 - 💬 Ask me about Automations, Cloud, Integrations, Innovation, Industry 4.0
 - 📫 Reach me on <a href="https://www.linkedin.com/in/vasilisplavos/">LinkedIn</a>
-- 📄 See my [Resume/CV](https://plavos.com/tech-cv?utm_source=github.com)
+- 📄 See my [Resume/CV](https://plavos.com/cv?utm_source=github.com)
 
 ### Connect with me:
 Please connect with me on [LinkedIn](https://www.linkedin.com/in/vasilisplavos/). Find me there for a more detailed description of my full work experience, education and certification.
